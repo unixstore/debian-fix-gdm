@@ -1,0 +1,11 @@
+fix-gdm (1.0.0-2) unstable; urgency=medium
+
+  * UPD: Rename "override.conf" to "fix-black-screen.conf".
+
+ -- z17 Dev <mail@z17.dev>  Sat, 02 Oct 2021 15:13:03 +0000
+
+fix-gdm (1.0.0-1) unstable; urgency=medium
+
+  * Initial Release
+
+ -- z17 Dev <mail@z17.dev>  Sat, 02 Oct 2021 15:13:03 +0000
